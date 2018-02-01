@@ -1,9 +1,10 @@
 -----------------------------------------------------------------------------
-# Community College of Denver - Colorado Space Grant Consortium:
+## Community College of Denver - Colorado Space Grant Consortium:
 
 ## High-Altitude FM Radio Recording Project
 
 ### Fall 2013 / Spring 2014
+
 
 
 
@@ -12,6 +13,7 @@
 
 We placed two FM radio recorders inside payloads attached to weather balloons, 
 then recorded FM radio broadcasts to altitudes exceeding 100,000 feet.
+
 
 
 
@@ -25,6 +27,7 @@ station's altitude-to-line-of-sight".
 
 
 
+
 -----------------------------------------------------------------------------
 ## RESULTS:
 
@@ -32,17 +35,18 @@ We were successful in achieving our main objective on both frequencies in
 Spring 2014.  Furthermore, we were able to attach our FM radio recordings to 
 our GoPro video of the ascent to create the "Spring 2014 processed videos for 
 distribution".  These videos are the highlight of our project and are only 
-available from [MIRROR 2](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ) (linked below).  
+available from [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ).  
 
 For more details, please see the Spring 2014 Final Report (available from 
-[MIRROR 1] or [MIRROR 2]).
+[[MIRROR 1]](http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT) or [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ)).
+
 
 
 
 -----------------------------------------------------------------------------
 ## NOTE:
 
-Please see [MIRROR 2] (linked below) to access all files, 
+Please see [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ) to access all files, 
 including Spring 2014 processed videos for distribution.
 
 
@@ -58,7 +62,6 @@ including Spring 2014 processed videos for distribution.
 
 http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT 
 or:
-
 https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T 
 
 
