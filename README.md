@@ -1,14 +1,14 @@
 -----------------------------------------------------------------------------
-#Community College of Denver - Colorado Space Grant Consortium:
+# Community College of Denver - Colorado Space Grant Consortium:
 
-##High-Altitude FM Radio Recording Project
+## High-Altitude FM Radio Recording Project
 
-###Fall 2013 / Spring 2014
+### Fall 2013 / Spring 2014
 
 
 
 -----------------------------------------------------------------------------
-##PROJECT OVERVIEW:
+## PROJECT OVERVIEW:
 
 We placed two FM radio recorders inside payloads attached to weather balloons, 
 then recorded FM radio broadcasts to altitudes exceeding 100,000 feet.
@@ -16,7 +16,7 @@ then recorded FM radio broadcasts to altitudes exceeding 100,000 feet.
 
 
 -----------------------------------------------------------------------------
-##MAIN OBJECTIVE:
+## MAIN OBJECTIVE:
 
 "To record an FM radio frequency on which one station is broadcast, and then 
 have the recording automatically change to a stronger station broadcasting 
@@ -26,7 +26,7 @@ station's altitude-to-line-of-sight".
 
 
 -----------------------------------------------------------------------------
-##RESULTS:
+## RESULTS:
 
 We were successful in achieving our main objective on both frequencies in 
 Spring 2014.  Furthermore, we were able to attach our FM radio recordings to 
@@ -40,7 +40,7 @@ For more details, please see the Spring 2014 Final Report (available from
 
 
 -----------------------------------------------------------------------------
-##NOTE:
+## NOTE:
 
 Please see [MIRROR 2] (linked below) to access all files, 
 including Spring 2014 processed videos for distribution.
@@ -48,7 +48,7 @@ including Spring 2014 processed videos for distribution.
 
 
 -----------------------------------------------------------------------------
-##MIRROR 1:  
+## MIRROR 1:  
 
 * Does NOT contain Spring 2014 processed videos for distribution 
 * Contains all FM radio recordings
@@ -56,14 +56,15 @@ including Spring 2014 processed videos for distribution.
 * Contains educational fair use of copyrighted material notices
 * Contains this list of mirrors
 
-http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT
+http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT 
 or:
-https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T
+
+https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T 
 
 
 
 -----------------------------------------------------------------------------
-##MIRROR 2:  
+## MIRROR 2:  
 
 * DOES contain Spring 2014 processed videos for distribution!
 * Contains all FM radio recordings
@@ -71,19 +72,19 @@ https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T
 * Contains educational fair use of copyrighted material notices
 * Contains this list of mirrors
 
-https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ
+https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ 
 
 
 
 -----------------------------------------------------------------------------
-##MIRROR 3: 
+## MIRROR 3: 
 
 * Does NOT contain Spring 2014 processed videos for distribution 
 * Does NOT contain FM radio recordings
 * Does NOT contain all other project data
 * Contains this overview and list of mirrors
  
-TBD
+ https://github.com/CCD-COSGC-2013-2014/High_Altitude_FM_Radio_Recording_Project 
 
 
 
