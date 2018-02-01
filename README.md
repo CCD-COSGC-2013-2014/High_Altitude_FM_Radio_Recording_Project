@@ -31,14 +31,9 @@ station's altitude-to-line-of-sight".
 -----------------------------------------------------------------------------
 #### RESULTS:
 
-We were successful in achieving our main objective on both frequencies in 
-Spring 2014.  Furthermore, we were able to attach our FM radio recordings to 
-our GoPro video of the ascent to create the "Spring 2014 processed videos for 
-distribution".  These videos are the highlight of our project and are only 
-available from [[MIRROR 2: direct link]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ).  
+We were successful in achieving our main objective on both frequencies in Spring 2014.  Furthermore, we were able to attach our FM radio recordings to our GoPro video of the ascent to create the "Spring 2014 Finished Videos for Distribution".  These videos are the highlight of our project and are only available from [[MIRROR 2: direct link]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ).  
 
-For more details, please see the Spring 2014 Final Report (available from 
-[[MIRROR 1: direct link]](https://www.dropbox.com/sh/5fs5iinevi6pyma/AAAxj1HJRFNtypAJfX0rMEmka/Spring%202014/7.%20Final%20Report?dl=0) or [[MIRROR 2: direct link]](https://drive.google.com/open?id=1ser7O-UXn-9iSw0pbLH0nqMtInKPGe5B)).
+For more details, please see the Spring 2014 Final Report (available from [[MIRROR 1: direct link]](https://www.dropbox.com/sh/5fs5iinevi6pyma/AAAxj1HJRFNtypAJfX0rMEmka/Spring%202014/7.%20Final%20Report?dl=0) or [[MIRROR 2: direct link]](https://drive.google.com/open?id=1ser7O-UXn-9iSw0pbLH0nqMtInKPGe5B)).
 
 
 
@@ -46,15 +41,14 @@ For more details, please see the Spring 2014 Final Report (available from
 -----------------------------------------------------------------------------
 #### NOTE:
 
-Please see [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ) to access all files, 
-including Spring 2014 processed videos for distribution.
+Please see [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ) to access all files, including Spring 2014 processed videos for distribution.
 
 
 
 -----------------------------------------------------------------------------
 #### MIRROR 1:  
 
-* Does NOT contain Spring 2014 processed videos for distribution 
+* Does NOT contain Spring 2014 Finished Videos for Distribution 
 * Contains all FM radio recordings
 * Contains all other project data 
 * Contains educational fair use of copyrighted material notices
@@ -71,7 +65,7 @@ https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T
 -----------------------------------------------------------------------------
 #### MIRROR 2:  
 
-* DOES contain Spring 2014 processed videos for distribution!
+* DOES contain Spring 2014 Finished Videos for Distribution!
 * Contains all FM radio recordings
 * Contains all other project data 
 * Contains educational fair use of copyrighted material notices
@@ -84,7 +78,7 @@ https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ
 -----------------------------------------------------------------------------
 #### MIRROR 3: 
 
-* Does NOT contain Spring 2014 processed videos for distribution 
+* Does NOT contain Spring 2014 Finished Videos for Distribution
 * Does NOT contain FM radio recordings
 * Does NOT contain all other project data
 * Contains this overview and list of mirrors
