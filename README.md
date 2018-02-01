@@ -41,12 +41,12 @@ For more details, please see the Spring 2014 Final Report (available from [[MIRR
 -----------------------------------------------------------------------------
 #### NOTE:
 
-Please see [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ) to access all files, including Spring 2014 processed videos for distribution.
+Please see [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ) to access all files, including Spring 2014 Finished Videos for Distribution.
 
 
 
 -----------------------------------------------------------------------------
-#### [MIRROR 1](http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT):  
+#### [[MIRROR 1]](http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT):  
 
 * Does NOT contain Spring 2014 Finished Videos for Distribution 
 * Contains all FM radio recordings
@@ -63,7 +63,7 @@ https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T
 
 
 -----------------------------------------------------------------------------
-#### [MIRROR 2](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ):  
+#### [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ):  
 
 * DOES contain Spring 2014 Finished Videos for Distribution!
 * Contains all FM radio recordings
@@ -76,7 +76,7 @@ https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ
 
 
 -----------------------------------------------------------------------------
-#### [MIRROR 3](https://github.com/CCD-COSGC-2013-2014/High_Altitude_FM_Radio_Recording_Project): 
+#### [[MIRROR 3]](https://github.com/CCD-COSGC-2013-2014/High_Altitude_FM_Radio_Recording_Project): 
 
 * Does NOT contain Spring 2014 Finished Videos for Distribution
 * Does NOT contain FM radio recordings
