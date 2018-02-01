@@ -31,7 +31,7 @@ station's altitude-to-line-of-sight".
 -----------------------------------------------------------------------------
 #### RESULTS:
 
-We were successful in achieving our main objective on both frequencies in Spring 2014.  Furthermore, we were able to attach our FM radio recordings to our GoPro video of the ascent to create the "Spring 2014 Finished Videos for Distribution".  These videos are the highlight of our project and are only available from [[MIRROR 2: direct link]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ).  
+We were successful in achieving our main objective on both frequencies in Spring 2014.  Furthermore, we were able to attach our FM radio recordings to our GoPro video of the ascent to create the "Spring 2014 Finished Videos for Distribution".  These videos are the highlight of our project and are only available from [[MIRROR 2: direct link]](https://drive.google.com/open?id=1V_16yWv78SCjSYHDz5jKJByYZj3gO9kV).  
 
 For more details, please see the Spring 2014 Final Report (available from [[MIRROR 1: direct link]](https://www.dropbox.com/sh/5fs5iinevi6pyma/AAAxj1HJRFNtypAJfX0rMEmka/Spring%202014/7.%20Final%20Report?dl=0) or [[MIRROR 2: direct link]](https://drive.google.com/open?id=1ser7O-UXn-9iSw0pbLH0nqMtInKPGe5B)).
 
