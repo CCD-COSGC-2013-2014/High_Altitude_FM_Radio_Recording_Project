@@ -52,7 +52,7 @@ Please see [[MIRROR 2]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7
 * Contains all FM radio recordings
 * Contains all other project data 
 * Contains educational fair use of copyrighted material notices
-* Contains this list of mirrors
+* Contains this overview and list of mirrors
 
 http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT 
 
@@ -69,7 +69,7 @@ https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T
 * Contains all FM radio recordings
 * Contains all other project data 
 * Contains educational fair use of copyrighted material notices
-* Contains this list of mirrors
+* Contains this overview and list of mirrors
 
 https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ 
 
