@@ -11,7 +11,7 @@
 -----------------------------------------------------------------------------
 #### PROJECT OVERVIEW:
 
-We placed two FM radio recorders inside payloads attached to weather balloons, 
+We placed two FM radio recorders inside payloads attached to hydrogen balloons, 
 then recorded FM radio broadcasts to altitudes exceeding 100,000 feet.
 
 
