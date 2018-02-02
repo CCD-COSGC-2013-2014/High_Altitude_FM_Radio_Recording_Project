@@ -79,6 +79,22 @@ https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T
 -----------------------------------------------------------------------------
 #### [[MIRROR 3]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ):  
 
+* THIS MIRROR IS CURRENTLY BEING TRANSFERRED TO [MIRROR 4]
+* DOES contain Spring 2014 Finished Videos for Distribution!
+* Contains all FM radio recordings
+* Contains all other project data 
+* Contains educational fair use of copyrighted material notices
+* Contains this overview and list of mirrors
+* Link WILL be eliminated after being transferred to [MIRROR 4]
+
+https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ 
+
+
+
+-----------------------------------------------------------------------------
+#### [[MIRROR 4]](https://drive.google.com/open?id=1xSN46zBNLYljKUp9iZocZ2lTrrCANFS6):
+
+* NOT ALL OF THE FOLLOWING ARE TRUE YET:
 * DOES contain Spring 2014 Finished Videos for Distribution!
 * Contains all FM radio recordings
 * Contains all other project data 
@@ -86,8 +102,4 @@ https://www.dropbox.com/sh/5fs5iinevi6pyma/qxDCFwnk9T
 * Contains this overview and list of mirrors
 * Link IS subject to change
 
-https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ 
-
-
-
------------------------------------------------------------------------------
+https://drive.google.com/open?id=1xSN46zBNLYljKUp9iZocZ2lTrrCANFS6
