@@ -31,9 +31,9 @@ station's altitude-to-line-of-sight".
 -----------------------------------------------------------------------------
 #### RESULTS:
 
-We were successful in achieving our main objective on both frequencies in Spring 2014.  Furthermore, we were able to attach our FM radio recordings to our GoPro video of the ascent to create the "Spring 2014 Finished Videos for Distribution".  These videos are the highlight of our project and are currently only available from [[MIRROR 3: direct link]](https://drive.google.com/open?id=1V_16yWv78SCjSYHDz5jKJByYZj3gO9kV).  
+We were successful in achieving our main objective on both frequencies in Spring 2014.  Furthermore, we were able to attach our FM radio recordings to our GoPro video of the ascent to create the "Spring 2014 Finished Videos for Distribution".  These videos are the highlight of our project and are currently only available from [[MIRROR 2: direct link]](https://drive.google.com/open?id=1lgTtrM9WDBs4-iX_IzmZjj9kbuFMo6mh).  
 
-For more details, please see the Spring 2014 Final Report (available from [[MIRROR 3: direct link]](https://drive.google.com/open?id=1ser7O-UXn-9iSw0pbLH0nqMtInKPGe5B)).
+For more details, please see the Spring 2014 Final Report (available from [[MIRROR 2: direct link]](https://drive.google.com/open?id=1rfz0ls8JtSaWNEDUw-LzbcsisRApsJ84)).
 
 
 
@@ -41,7 +41,7 @@ For more details, please see the Spring 2014 Final Report (available from [[MIRR
 -----------------------------------------------------------------------------
 #### NOTE:
 
-Please see [[MIRROR 3]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ) to access all files, including Spring 2014 Finished Videos for Distribution.
+Please see [[MIRROR 2]](https://drive.google.com/open?id=1xSN46zBNLYljKUp9iZocZ2lTrrCANFS6) to access all files, including Spring 2014 Finished Videos for Distribution.
 
 
 
@@ -49,9 +49,7 @@ Please see [[MIRROR 3]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7
 #### [[MIRROR 1]](https://github.com/CCD-COSGC-2013-2014/High_Altitude_FM_Radio_Recording_Project): 
 
 * Is the primary persistent mirror for this project
-* Does NOT contain Spring 2014 Finished Videos for Distribution
-* Does NOT contain FM radio recordings
-* Does NOT contain all other project data
+* Does NOT contain any project files
 * Contains this overview and list of mirrors
 * Link is NOT subject to change 
  
@@ -62,11 +60,7 @@ Please see [[MIRROR 3]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7
 -----------------------------------------------------------------------------
 #### [[MIRROR 2]](https://drive.google.com/open?id=1xSN46zBNLYljKUp9iZocZ2lTrrCANFS6):
 
-* NOT ALL OF THE FOLLOWING ARE TRUE YET:
-* DOES contain Spring 2014 Finished Videos for Distribution!
-* Contains all FM radio recordings
-* Contains all other project data 
-* Contains educational fair use of copyrighted material notices
+* Contains ALL project files
 * Contains this overview and list of mirrors
 * Link IS subject to change
 
@@ -75,27 +69,19 @@ https://drive.google.com/open?id=1xSN46zBNLYljKUp9iZocZ2lTrrCANFS6
 
 
 -----------------------------------------------------------------------------
-#### [[MIRROR 3]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ):  
-
-* THIS MIRROR IS CURRENTLY BEING TRANSFERRED TO [MIRROR 2]
-* DOES contain Spring 2014 Finished Videos for Distribution!
-* Contains all FM radio recordings
-* Contains all other project data 
-* Contains educational fair use of copyrighted material notices
-* Contains this overview and list of mirrors
-* Link WILL be eliminated after being transferred to [MIRROR 2]
-
-https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ 
-
-
-
------------------------------------------------------------------------------
-#### [[MIRROR 4]](http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT):  
+#### [[MIRROR 3]](http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT):  
 
 * Is now deprecated and in disuse
 * No longer contains project content
 
 http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT 
+
+
+
+-----------------------------------------------------------------------------
+#### [[MIRROR 4]]:  
+
+* THIS MIRROR HAS BEEN DELETED
 
 
 
