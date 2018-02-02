@@ -60,32 +60,7 @@ Please see [[MIRROR 3]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7
 
 
 -----------------------------------------------------------------------------
-#### [[MIRROR 2]](http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT):  
-
-* Is now deprecated and in disuse
-* No longer contains project content
-
-http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT 
-
-
-
------------------------------------------------------------------------------
-#### [[MIRROR 3]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ):  
-
-* THIS MIRROR IS CURRENTLY BEING TRANSFERRED TO [MIRROR 4]
-* DOES contain Spring 2014 Finished Videos for Distribution!
-* Contains all FM radio recordings
-* Contains all other project data 
-* Contains educational fair use of copyrighted material notices
-* Contains this overview and list of mirrors
-* Link WILL be eliminated after being transferred to [MIRROR 4]
-
-https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ 
-
-
-
------------------------------------------------------------------------------
-#### [[MIRROR 4]](https://drive.google.com/open?id=1xSN46zBNLYljKUp9iZocZ2lTrrCANFS6):
+#### [[MIRROR 2]](https://drive.google.com/open?id=1xSN46zBNLYljKUp9iZocZ2lTrrCANFS6):
 
 * NOT ALL OF THE FOLLOWING ARE TRUE YET:
 * DOES contain Spring 2014 Finished Videos for Distribution!
@@ -96,3 +71,32 @@ https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ
 * Link IS subject to change
 
 https://drive.google.com/open?id=1xSN46zBNLYljKUp9iZocZ2lTrrCANFS6
+
+
+
+-----------------------------------------------------------------------------
+#### [[MIRROR 3]](https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ):  
+
+* THIS MIRROR IS CURRENTLY BEING TRANSFERRED TO [MIRROR 2]
+* DOES contain Spring 2014 Finished Videos for Distribution!
+* Contains all FM radio recordings
+* Contains all other project data 
+* Contains educational fair use of copyrighted material notices
+* Contains this overview and list of mirrors
+* Link WILL be eliminated after being transferred to [MIRROR 2]
+
+https://drive.google.com/open?id=1l2vIvQeInSRp2tGQYZVMj7qbZEKa2LxJ 
+
+
+
+-----------------------------------------------------------------------------
+#### [[MIRROR 4]](http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT):  
+
+* Is now deprecated and in disuse
+* No longer contains project content
+
+http://tinyurl.com/CCD-COSGC-FM-RECORDING-PROJECT 
+
+
+
+-----------------------------------------------------------------------------
